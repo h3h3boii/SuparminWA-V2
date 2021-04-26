@@ -67,7 +67,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'TEL;type=CELL;type=VOICE;waid=6281368646011:+62 813-6864-6011\n'
             + 'END:VCARD'
 
-prefix = "#"
+prefix = ","
 name = "~ DARK BOT"
 rdaftar = "HALLO KAK MAKASIH UDH DAFTAR YAA😁"
 rmenu = "HALLO KAK😊"
