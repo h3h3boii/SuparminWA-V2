@@ -71,8 +71,8 @@ name = "~ DARK BOT"
 rdaftar = "HALLO KAK MAKASIH UDH DAFTAR YAA😁"
 rmenu = "HALLO KAK😊"
 botinfo = "MAU SEWA DONASI DLU YA KAK:)"
-limitt = 9999999999
-memberLimit = 2
+limitt = 100
+memberLimit = 100
 ban = ["6283806369677@s.whatsapp.net"]
 premium = ["6281368646011@s.whatsapp.net"]
 
